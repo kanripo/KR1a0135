@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易原就正
-#+DATE: 2015-09-23 09:35:31
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:59:23.625342
+#+PROPERTY: ID KR1a0135
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1a0135_WYG_010-1a>¶
 欽定四庫全書¶
 　易原就正卷十¶
@@ -758,4 +760,3 @@
 　¶
 　¶
 　易原就正卷十¶
-
